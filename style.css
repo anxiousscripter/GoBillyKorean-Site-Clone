@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 3000px;
+}
+
+.top-banner {
+  max-width: 100%;
+  object-fit: cover;
+  object-position: center;
+  padding-top: 48px;
+}
